@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @QuLiXun
+- 👋 Hi, I’m @Timing
 - 👀 I’m interested in ...Java
 - 🌱 I’m currently learning ...Java
-- 📫 How to reach me ...qulixun@qq.com
+- 📫 How to reach me ...1649745527@qq.com
 
 <!---
 
