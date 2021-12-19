@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Timing
-- 👀 I’m interested in ...Java
-- 🌱 I’m currently learning ...Java
-- 📫 How to reach me ...1649745527@qq.com
+-  Hi, I’m @Timing
+-  I’m interested in ...Java
+-  I’m currently learning ...Java
+-  How to reach me ...1649745527@qq.com
 
 <!---
 
